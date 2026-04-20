@@ -4,10 +4,11 @@ main.py:
 ¿Qué hace?
 Proporciona un menú interactivo en consola para que el usuario use el programa. Ofrece opciones como: entrenar sistema, ver estadísticas, predecir un estudiante, ver reglas, etc.
 
-interfaz_3.1.py y interfaz_4.1.py
+interfaz_3.1.py o interfaz_4.1.py:
+¿Que hace?
 Es lo mismo que main pero con una interfaz gráfica (ventanas, botones, cajas de texto) para el mismo sistema que al ejercutarse genera dos pestañas una con la interfaz y otra con una terminal.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------Resumen de los 7 módulos del proyecto
 
-Mini resumen de los 7 módulos del proyecto
 1. estudiante.py
 ¿Qué hace?
 Define la estructura de datos de un estudiante. Es como un molde que guarda toda la información relevante: edad, notas, materias reprobadas, si trabaja, si desertó, etc.
