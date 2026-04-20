@@ -1,4 +1,5 @@
 Programas que se tiene que ejecutar para el uso de el programa:
+
 main.py:
 ¿Qué hace?
 Proporciona un menú interactivo en consola para que el usuario use el programa. Ofrece opciones como: entrenar sistema, ver estadísticas, predecir un estudiante, ver reglas, etc.
