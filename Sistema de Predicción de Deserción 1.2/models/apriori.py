@@ -33,7 +33,7 @@ class Apriori:
         for trans in transacciones:
             for item in trans:
                 itemsets_t1[frozenset([item])] = itemsets_t1.get(frozenset([item]), 0) + 1
-        
+        #CODIGO DE RANDY CASTILLO 30727559
         total = len(transacciones)
         k = 1
         itemsets_frecuentes[k] = {
@@ -95,5 +95,4 @@ class Apriori:
         return self.reglas
     
     def obtener_reglas_desercion(self):
-        """Filtra reglas que predicen deserción"""
         return [r for r in self.reglas if 'deserto' in r['consecuente']]

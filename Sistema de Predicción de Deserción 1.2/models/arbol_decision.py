@@ -13,7 +13,7 @@ class NodoDecision:
     def es_hoja(self):
         return self.prediccion is not None
 
-
+#CODIGO DE RANDY CASTILLO 30727559
 class ArbolDecisionID3:
     """
     Árbol de decisión con algoritmo ID3
