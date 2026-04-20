@@ -4,7 +4,7 @@ main.py: main.py
 Proporciona un menú interactivo en consola para que el usuario use el programa. Ofrece opciones como: entrenar sistema, ver estadísticas, predecir un estudiante, ver reglas, etc.
 
 interfaz_1.py y interfaz_2.py
-Es lo mismo que main pero con una nterfaz gráfica (ventanas, botones, cajas de texto) para el mismo sistema que al ejercutarse genera dos pestañas una con la interfaz y otra con una terminal.
+Es lo mismo que main pero con una interfaz gráfica (ventanas, botones, cajas de texto) para el mismo sistema que al ejercutarse genera dos pestañas una con la interfaz y otra con una terminal.
 
 Mini resumen de los 7 módulos del proyecto
 1. estudiante.py
