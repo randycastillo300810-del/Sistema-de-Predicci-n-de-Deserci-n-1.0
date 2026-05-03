@@ -3,9 +3,6 @@
 from itertools import combinations
 
 class Apriori:
-    """
-    Algoritmo Apriori para encontrar reglas de asociación
-    """
     
     def __init__(self, soporte_minimo=0.05, confianza_minima=0.6):
         self.soporte_minimo = soporte_minimo

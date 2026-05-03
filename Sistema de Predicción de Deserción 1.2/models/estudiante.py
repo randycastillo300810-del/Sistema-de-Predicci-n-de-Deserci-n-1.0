@@ -1,9 +1,8 @@
 # models/estudiante.py
 
 class Estudiante:
-    """
-    Clase que representa un estudiante con todas sus características
-    """
+
+    #Clasificación del estudiante basada en sus atributos
     
     def __init__(self, id, datos):
         self.id = id
